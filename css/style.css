@@ -1,0 +1,46 @@
+body {
+    background-color: #24353f;
+}
+
+h1 {
+    color: #17a2b8;
+}
+
+.form-container {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+input.form-control {
+    background-color: transparent !important;
+    outline: none !important;
+    color: #fff !important;
+}
+
+
+.sign-up {
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bolder;
+    transition: all .3s;
+}
+
+a:hover, a:active {
+    color: #17a2b8;
+}
+
+
+#hintMsg, #hintMsg2 {
+    display: none;
+}
+
+.welcome {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.welcomeContainer {
+    height: calc(100vh - 300px);
+}
